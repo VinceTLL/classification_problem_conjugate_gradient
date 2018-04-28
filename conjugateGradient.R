@@ -1,5 +1,5 @@
 
-# Classification problem, predicting the type of transmission (1-manual,0-automatic) based on the weight and horse powers of the car
+# Classification problem, predicting the type of transmission (1-manual,0-automatic) based on the weight and horse power of the car
 
 # Logistic  function
 
